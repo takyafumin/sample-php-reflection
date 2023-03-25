@@ -1,0 +1,21 @@
+{
+    "name": "takyafumin/sample-php-reflection",
+    "require": {
+        "illuminate/support": "^10.4",
+        "nesbot/carbon": "^2.66"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "takyafumin",
+            "email": "takyafumin@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7"
+    }
+}
